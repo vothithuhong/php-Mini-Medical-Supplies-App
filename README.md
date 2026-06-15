@@ -1,12 +1,3 @@
-# Mini Medical Supplies App
-
-
-Week 1 PHP Lab
-
-
-## Run
-php -S localhost:8000 -t public
-
 # Lab04 - PHP Secure Forms, PRG, Anti-spam & Session Login Flow
 
 Đây là project Lab04 xây dựng hệ thống Mini Workshop Registration Portal kết hợp Login System bằng PHP thuần theo mô hình MVC đơn giản. Mục tiêu của project là áp dụng các kỹ thuật xử lý form an toàn, session security và luồng PRG (Post - Redirect - Get).
